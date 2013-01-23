@@ -50,6 +50,16 @@ a small {
   margin:0 auto;
 }
 
+.box {
+	width:1000px;
+	margin:auto auto;
+}
+.photo {
+	width:1000px;
+	height:667px;
+	margin:auto auto;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
